@@ -23,7 +23,7 @@ function App() {
   }
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename='/spa-project'>
         <Header/>
         <main className='container contact'>
           <Routes>
