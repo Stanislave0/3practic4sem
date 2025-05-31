@@ -23,7 +23,7 @@ function App() {
   }
   return (
     <>
-      <BrowserRouter basename='/spa-project'>
+      <BrowserRouter basename='/3practic4sem'>
         <Header/>
         <main className='container contact'>
           <Routes>
