@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/spa-project",
+  base: "/3practic3sem",
   plugins: [react()],
 })
