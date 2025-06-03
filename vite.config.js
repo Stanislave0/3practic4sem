@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/3practic3sem",
+  base: "/3practic3sem/tree/gh-pages",
   plugins: [react()],
 })
